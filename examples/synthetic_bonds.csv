@@ -1,0 +1,5 @@
+bond_id,currency,face_held,coupon_pct,ytm_pct,periods_left,frequency
+DEMO-HKD-2Y,HKD,1000000,3.5,3.5,4,2
+DEMO-HKD-7Y,HKD,500000,4.0,3.8,14,2
+DEMO-USD-5Y,USD,250000,4.2,4.5,10,2
+DEMO-CNY-ZERO,CNY,800000,0,2.2,3,1
